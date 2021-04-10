@@ -1,26 +1,17 @@
-# Hi, I'm Elson Júnior 🖖
+# Hi, I'm E-Design 🖖
 
-Software Developer Knowledge in programming languages PHP, Laravel, JavaScript, Java and SQL.
+Conhecimentos em : Php, Java, Laravel, Vuejs, Inertia, PhpMaker, JavaScript,  SpringBoot, API REST, e SQl
 
 ![Elson's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldermesquita&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldermesquita&layout=compact&theme=dark)](https://github.com/eldermesquita/github-readme-stats)
 
-## Contact me 📫
+## Contato 📫
 - Email: elderaraujo@gmail.com
 - Linkedin: https://www.linkedin.com/in/eldermesquita
 - Telegram: https://t.me/eldermesquita
+- https://www.instagram.com/elder.a.mesquita
+- Web: https://www.eldermesquita.com.br
 
 <!--
 **eldermesquita/eldermesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
